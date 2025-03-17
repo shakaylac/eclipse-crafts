@@ -35,31 +35,30 @@ header > h3 {
 logo {
     display: flex;
     flex-direction: column;
-    color: #fff;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 2;
+    margin-top: -20px;
 }
 
 logo > .name {
-    width: 60%;
-    height: auto;
-    top: 30px;
-    left: 150px;
+    width: 40%;
+    margin-top: 20px;
+    margin-bottom: 0px;
     font-size: 4em;
-    position: absolute;
-    z-index: 2;
 }
 
-logo > h3 {
-    top: 190px;
-    left: 250px;
-    position: absolute;
-    z-index: 2;
+logo > h4 {
+    left: 40%;
+    font-size: 1em;
+    margin-top: -100px;
+    color: var(--light);
+    top: 20px;
 }
 
 logo > .logo-icon {
-    width: 20%;
-    height: auto;
-    position: absolute;
-    left: 270px;
-    top: 400px;
+    width:8%;
+    margin: -110px;
 }
 

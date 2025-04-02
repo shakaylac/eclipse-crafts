@@ -1,7 +1,7 @@
 import {useState} from react;
 import '..stylesheets/Product';
 
-const [img, setImg] = useState(img);
+const [img, setImg] = useState(initial-img);
 
 function Product() {
   return(

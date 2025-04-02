@@ -3,7 +3,7 @@ import '../stylesheets/Product-Gallery'
 function Product-Gallery() {
   return(
    <section>
-    <div class="product">
+    <div class="product"> /*route to specific product page*/
        <img src="">
        <h3 class="product-title></h3>
        <p class="product-description></p>

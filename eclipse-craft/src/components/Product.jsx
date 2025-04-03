@@ -1,22 +1,24 @@
 import {useState} from react;
-import '..stylesheets/Product';
+import '../stylesheets/Product';
 
 const [img, setImg] = useState(initial-img);
 
 function Product() {
   return(
-   <h2 class="title"></h2>
+  <> 
+    <h2 class="title"></h2>
 
-   <section class="img-display">
-     <img class="initial-img" src="" />
-   </section>
+    <section class="img-display">
+      <img class="initial-img" src="" />
+    </section>
 
-   <section class="side-gallery">
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-   </section>
+    <section class="side-gallery">
+      <img src="" />
+      <img src="" />
+      <img src="" />
+      <img src="" />
+    </section>
+   </>
   )
 }
 

@@ -1,9 +1,9 @@
-import '../stylesheets/Footer's
+import '../stylesheets/Footer.css'
 
 function Footer() {
   return(
     <section>
-     <logo></logo>
+     <h2></h2>
      <p class="copyright"></p>
     </section>
   )

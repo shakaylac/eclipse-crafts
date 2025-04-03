@@ -19,4 +19,16 @@ img{
     width: 70%;
     height: 200px;
     border: 1px solid #000;
+    position: relative;
+}
+
+.save {
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    border: none;
+    position: absolute;
+    z-index: 2;
+    right: 19%;
+    top: 45%;
 }

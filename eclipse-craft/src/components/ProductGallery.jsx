@@ -2,6 +2,8 @@ import '../stylesheets/ProductGallery.css'
 
 function ProductGallery() {
   return(
+  <>
+  <h1>Crochet</h1>
    <section>
    <div class="product">
        <img src="null"/>
@@ -76,6 +78,7 @@ function ProductGallery() {
     </div>
 
    </section>
+   </>
  )
 }
 

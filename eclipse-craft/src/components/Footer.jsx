@@ -2,10 +2,10 @@ import '../stylesheets/Footer.css'
 
 function Footer() {
   return(
-    <section>
+    <footer>
      <h2></h2>
      <p class="copyright"></p>
-    </section>
+    </footer>
   )
 }
 

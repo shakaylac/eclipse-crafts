@@ -7,7 +7,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -16,7 +16,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -25,7 +25,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -34,7 +34,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -43,7 +43,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -52,7 +52,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -61,7 +61,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>
@@ -70,7 +70,7 @@ function ProductGallery() {
        <img src="null"/>
        <h3 className="product-title">Title</h3>
        <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>
-       <p class="product-price"></p>
+       <p class="product-price">$0.00</p>
        <button class="save"></button>
        <button class="add">Add to Cart</button>
     </div>

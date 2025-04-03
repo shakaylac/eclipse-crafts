@@ -12,6 +12,7 @@ section{
 .product{
     width: 25%;
     height: 280px;
+    padding-bottom: 30px;
 }
 
 img{

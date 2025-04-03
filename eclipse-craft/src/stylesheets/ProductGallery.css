@@ -23,12 +23,16 @@ img{
 }
 
 .save {
-    width: 15%;
-    height: 15%;
+    width: 12%;
+    height: 12%;
     border-radius: 50%;
     border: none;
     position: absolute;
     z-index: 2;
     right: 19%;
     top: 45%;
+}
+
+.add {
+    margin-top: 10px;
 }

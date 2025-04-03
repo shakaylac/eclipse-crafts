@@ -12,17 +12,21 @@ header{
     top: 0px;
     background-color: black;
     position: absolute;
-
-  
+    display: flex;
+    align-items: center;
+    justify-content: end;
 }
 
 ul{
     display: flex;
     color: #fff;
     list-style: none;
+    margin-right: 40px;
 }
 
 li{
     padding: 10px;
+    font-size: 1.3em;
+    gap: 10px;
 }
 

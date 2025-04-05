@@ -3,11 +3,13 @@
 }
 
 header{
-    width: 100%;
+    width: 100vw;
     height: 70px;
     margin: 0px;
     left: 0px;
     top: 0px;
+    margin-top: -33px;
+    margin-left: -33px;
     background-color: black;
     position: sticky;
     display: flex;

@@ -8,9 +8,11 @@ body {
 }
 
 .page {
+    width: 100vw;
+    margin-left: -33px;
     margin-top: 400px;
     position: sticky;
-    z-index: 2;
+    z-index: 3;
     background-color: #fff;
 }
 

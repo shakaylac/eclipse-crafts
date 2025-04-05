@@ -1,7 +1,5 @@
 *{
     position: relative;
-    margin: 0px;
-    padding: 0px;
 }
 
 header{
@@ -11,7 +9,7 @@ header{
     left: 0px;
     top: 0px;
     background-color: black;
-    position: absolute;
+    position: sticky;
     display: flex;
     align-items: center;
     justify-content: end;

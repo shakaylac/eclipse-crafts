@@ -3,6 +3,17 @@
     margin: 0px;
 }
 
+body {
+    position: relative;
+}
+
+.page {
+    margin-top: 400px;
+    position: sticky;
+    z-index: 2;
+    background-color: #fff;
+}
+
 h1{
     margin-top: 70px;
     margin-bottom: 0px;

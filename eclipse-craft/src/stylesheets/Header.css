@@ -18,15 +18,23 @@ header{
     margin-top: -33px;
     margin-left: -33px;
     background-color: black;
-    position: sticky;
     display: flex;
     align-items: center;
-    justify-content: end;
-    z-index: 1;
+    position: sticky;
+    z-index: 2;
+}
+
+.logo {
+    width: 20%;
+    height: auto;
+    border: none;
+    padding: 0px;
+    margin-left: 20px;
 }
 
 ul{
     display: flex;
+    align-items: end;
     color: #fff;
     list-style: none;
     margin-right: 40px;

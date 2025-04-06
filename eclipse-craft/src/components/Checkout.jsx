@@ -8,7 +8,7 @@ function Checkout() {
      </section>
      
      <label for="customer-detail"></label>
-     <form class="cuatomer-details>
+     <form class="cuatomer-details">
 
 
      </form>

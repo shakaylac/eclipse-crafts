@@ -10,7 +10,8 @@ body {
 .page {
     width: 100vw;
     margin-left: -33px;
-    margin-top: 400px;
+    padding-top: 0px;
+    padding-bottom: 50px;
     position: sticky;
     z-index: 3;
     background-color: #fff;

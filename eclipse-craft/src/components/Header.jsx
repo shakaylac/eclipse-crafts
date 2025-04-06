@@ -2,12 +2,14 @@ import '../stylesheets/Header.css'
 
 function Header() {
   return(
-    <header>
-    <ul>
-        <li>About</li>
-        <li>Cart</li>
-    </ul>
-   </header>
+    <div class="container">
+      <header>
+        <ul>
+            <li>About</li>
+            <li>Cart</li>
+        </ul>
+    </header>
+   </div>
 
   )
 }

@@ -1,4 +1,17 @@
 import '../stylesheets/ProductGallery.css'
+import { Link } from react-router-dom
+
+/* Link doesn't work
+import { useNavigation } from react-router-dom
+
+const nav = useNavigation();
+
+const handleClick = () => {
+     nav'/product';
+}
+*/
+
+
 
 function ProductGallery() {
   return(
@@ -7,6 +20,7 @@ function ProductGallery() {
       <div class="page">
          <h1>Crochet</h1>
             <section>
+            <Link to="/product">
             <div class="product">
                <img src="null"/>
                <h3 className="product-title">Title</h3>
@@ -15,8 +29,9 @@ function ProductGallery() {
                <button class="save"></button>
                <button class="add">Add to Cart</button>
             </div>
+            </Link>
 
-            <div class="product">
+            <div class="product" onClick={toProduct()}>
                <img src="null"/>
                <h3 className="product-title">Title</h3>
                <p className="product-description">Lorem ipsum dolor sit, amet consec!</p>

@@ -6,7 +6,7 @@
 
 .hero {
     width: 100vw;
-    height: 12%;
+    height: auto;
     position: absolute;
     left: 0px;
     right: 0xp;

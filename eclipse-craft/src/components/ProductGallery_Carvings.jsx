@@ -3,7 +3,7 @@ import '../stylesheets/ProductGallery_Carvings.css'
 function ProductGallery_Carvings() {
   return(
   <>
-   <body>
+   <div class="container">
       <div class="page">
          <h1>Wood Carvings</h1>
             <section>
@@ -81,7 +81,7 @@ function ProductGallery_Carvings() {
 
             </section>
          </div>
-      </body>
+      </div>
    </>
  )
 }

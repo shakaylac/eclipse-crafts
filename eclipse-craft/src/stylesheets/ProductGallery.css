@@ -3,15 +3,15 @@
     margin: 0px;
 }
 
-body {
+.container {
     position: relative;
 }
 
 .page {
     width: 100vw;
     margin-left: -33px;
-    margin-top: 400px;
-    padding-bottom: 50px;
+    margin-top: 50px;
+    padding-bottom: 10px;
     position: sticky;
     z-index: 3;
     background-color: #fff;

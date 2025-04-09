@@ -6,7 +6,10 @@ import logo from '../images/Logo_optima_font.png'
 function Hero() {
     return(
         <>
-            <img class="hero" src={ hero } />
+            <section>
+                <div className='shader'></div>
+                <img className='hero' src={ hero } />
+            </section>
             <img className='logo' src={ logo }/>
         </>
     )

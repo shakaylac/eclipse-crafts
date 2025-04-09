@@ -4,13 +4,41 @@
     position: relative;
 }
 
+section {
+    position: absolute;
+    width: 100vw;
+    left: 0px;
+    top: 29px;
+}
+
 .hero {
     width: 100vw;
     height: auto;
-    position: absolute;
     left: 0px;
     right: 0xp;
     margin-top: -1px;
     margin-left: 0px;
-    z-index: 0;
+}
+
+.shader {
+    width: 100vw;
+    height: 100%;
+    position: absolute;
+    background-color: #000;
+    left: 0px;
+    right: 0px;
+    margin-top: -1px;
+    opacity: 50%;
+    z-index: 2;
+}
+
+.logo {
+    width: 45%;
+    display: flex;
+    justify-self: center;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 7%;
+    z-index: 2;
+
 }

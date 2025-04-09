@@ -8,10 +8,10 @@
     height: auto;
 }
 
-.page {
+.page_main {
     width: 100vw;
     margin-left: -33px;
-    margin-top: 50px;
+    margin-top: 200px;
     padding-bottom: 10px;
     position: sticky;
     z-index: 3;

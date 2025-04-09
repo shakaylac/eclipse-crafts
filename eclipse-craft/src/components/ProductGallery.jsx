@@ -7,7 +7,7 @@ function ProductGallery() {
   return(
   <>
    <div class="container">
-      <div class="page">
+      <div class="page_main">
          <h1>Crochet</h1>
             <section>
             <div class="product">
